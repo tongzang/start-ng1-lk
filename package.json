@@ -1,0 +1,22 @@
+{
+  "name": "start-ng1-lk",
+  "version": "1.0.0",
+  "description": "Start Project AngularJS",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tongzang/start-ng1-lk.git"
+  },
+  "keywords": [
+    "angularjs"
+  ],
+  "author": "Tongzang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tongzang/start-ng1-lk/issues"
+  },
+  "homepage": "https://github.com/tongzang/start-ng1-lk#readme"
+}

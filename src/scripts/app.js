@@ -1,0 +1,1 @@
+var appmod = angular.module('testApp', [])
